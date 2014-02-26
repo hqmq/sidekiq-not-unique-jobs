@@ -1,0 +1,11 @@
+# Logfile created on 2014-02-26 14:21:58 -0700 by logger.rb/44203
+I, [2014-02-26T14:21:58.303622 #65677]  INFO -- : 0:  timers (1.1.0) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/timers-1.1.0.gemspec
+I, [2014-02-26T14:21:58.303939 #65677]  INFO -- : 0:  celluloid (0.15.2) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/celluloid-0.15.2.gemspec
+I, [2014-02-26T14:21:59.225988 #65677]  INFO -- : 0:  connection_pool (1.2.0) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/connection_pool-1.2.0.gemspec
+I, [2014-02-26T14:21:59.226346 #65677]  INFO -- : 0:  json (1.8.1) from /Users/michael.ries/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-02-26T14:22:00.019628 #65677]  INFO -- : 0:  mock_redis (0.11.0) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/mock_redis-0.11.0.gemspec
+I, [2014-02-26T14:22:01.288331 #65677]  INFO -- : 0:  redis (3.0.7) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/redis-3.0.7.gemspec
+I, [2014-02-26T14:22:01.831965 #65677]  INFO -- : 0:  redis-namespace (1.4.1) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/redis-namespace-1.4.1.gemspec
+I, [2014-02-26T14:22:03.411855 #65677]  INFO -- : 0:  sidekiq (2.17.6) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/sidekiq-2.17.6.gemspec
+I, [2014-02-26T14:22:04.440418 #65677]  INFO -- : 0:  sidekiq-unique-jobs (2.7.1) from /Users/michael.ries/.rvm/gems/ruby-2.1.0/specifications/sidekiq-unique-jobs-2.7.1.gemspec
+I, [2014-02-26T14:22:04.440743 #65677]  INFO -- : 0:  bundler (1.5.1) from /Users/michael.ries/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
