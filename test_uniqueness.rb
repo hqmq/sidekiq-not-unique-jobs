@@ -16,7 +16,9 @@ def print_counter
   end
 end
 
+# reset the db to get a clean run
 Sidekiq.redis do |conn|
+  conn.flushdb
   conn.set :counter, 0
 end
 
